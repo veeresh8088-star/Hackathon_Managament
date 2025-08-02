@@ -2,10 +2,7 @@ Project: Hackathon_management
 
 V Veeresh <veereshv2004@gmail.com>
 
-Url of deployed application: http://18.222.29.3:3000
-
-
-OpenHack: A distributed enterprise application is basically a hackathon management service designed specifically to 
+Hackathon_management: A distributed enterprise application is basically a hackathon management service designed specifically to 
 create and organize hackathons for those people who are seeking out to enhance their coding skills on a higher level 
 and of course to enhance their creativity. The hackathons are managed by admin who will create and organize hackathons 
 and allow hackers to participate in them in the form of a team. A team will have a minimum and maximum number of team 
