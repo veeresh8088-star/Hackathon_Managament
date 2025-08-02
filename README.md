@@ -1,6 +1,6 @@
-Term Project: OpenHack
+Project: Hackathon_management
 
-V Veeresh<veereshv2004@gmail.com>
+V Veeresh <veereshv2004@gmail.com>
 
 Url of deployed application: http://18.222.29.3:3000
 
